@@ -1,5 +1,4 @@
-#SafeHear: Emergency Acoustic Detection on Android
-
+# SafeHear: Emergency Acoustic Detection on Android
 Offline Android app that detects emergency sounds (car horns and sirens) in real time and alerts hearing-impaired users with visual, audio and haptic feedback.
 
 ## How it works
